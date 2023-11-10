@@ -9,10 +9,12 @@
     <link rel="stylesheet" href="~/Library_Application.styles.css" asp-append-version="true" />
 </head>
 <body>
+
     <header>
+        <!-- Header (Navigation) -->
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container">
-                <a class="navbar-brand" asp-area="" asp-page="/Index">Library_Application</a>
+                <a class="navbar-brand" asp-area="" asp-page="/Index">Bucks Library</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -23,13 +25,31 @@
                             <a class="nav-link text-dark" asp-area="" asp-page="/Index">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Privacy">Privacy</a>
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Privacy">About</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Contact">Contact Us</a>
                         </li>
                     </ul>
+
+                    <!-- Search Bar -->
+                    <form class="d-flex">
+                        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                        <button class="btn btn-outline-success" type="submit">Search</button>
+                    </form>
+
+                    <!-- Sign In and Sign Up Buttons -->
+                    <div class="d-flex">
+                        <button class="btn btn-outline-primary mx-2">Sign In</button>
+                        <button class="btn btn-outline-secondary">Sign Up</button>
+                    </div>
                 </div>
             </div>
         </nav>
     </header>
+
+
+
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()

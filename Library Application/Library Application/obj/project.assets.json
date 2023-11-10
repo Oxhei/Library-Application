@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/oxhei/Desktop/Library/Library Application/Library Application/Library Application.csproj",
+      "projectUniqueName": "/Users/oxhei/Projects/Library-Application/Library Application/Library Application/Library Application.csproj",
       "projectName": "Library Application",
-      "projectPath": "/Users/oxhei/Desktop/Library/Library Application/Library Application/Library Application.csproj",
+      "projectPath": "/Users/oxhei/Projects/Library-Application/Library Application/Library Application/Library Application.csproj",
       "packagesPath": "/Users/oxhei/.nuget/packages/",
-      "outputPath": "/Users/oxhei/Desktop/Library/Library Application/Library Application/obj/",
+      "outputPath": "/Users/oxhei/Projects/Library-Application/Library Application/Library Application/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/oxhei/.nuget/NuGet/NuGet.Config"

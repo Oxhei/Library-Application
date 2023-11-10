@@ -9,37 +9,37 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Library_Application
 build_property.RootNamespace = Library_Application
-build_property.ProjectDir = /Users/oxhei/Desktop/Library/Library Application/Library Application/
+build_property.ProjectDir = /Users/oxhei/Projects/Library-Application/Library Application/Library Application/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/oxhei/Desktop/Library/Library Application/Library Application
+build_property.MSBuildProjectDirectory = /Users/oxhei/Projects/Library-Application/Library Application/Library Application
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/oxhei/Desktop/Library/Library Application/Library Application/Pages/Error.cshtml]
+[/Users/oxhei/Projects/Library-Application/Library Application/Library Application/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/oxhei/Desktop/Library/Library Application/Library Application/Pages/Index.cshtml]
+[/Users/oxhei/Projects/Library-Application/Library Application/Library Application/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/oxhei/Desktop/Library/Library Application/Library Application/Pages/Privacy.cshtml]
+[/Users/oxhei/Projects/Library-Application/Library Application/Library Application/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/oxhei/Desktop/Library/Library Application/Library Application/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/oxhei/Projects/Library-Application/Library Application/Library Application/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/oxhei/Desktop/Library/Library Application/Library Application/Pages/_ViewImports.cshtml]
+[/Users/oxhei/Projects/Library-Application/Library Application/Library Application/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/oxhei/Desktop/Library/Library Application/Library Application/Pages/_ViewStart.cshtml]
+[/Users/oxhei/Projects/Library-Application/Library Application/Library Application/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/oxhei/Desktop/Library/Library Application/Library Application/Pages/Shared/_Layout.cshtml]
+[/Users/oxhei/Projects/Library-Application/Library Application/Library Application/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-f2kegj3lmk
