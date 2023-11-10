@@ -21,8 +21,17 @@
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Index">Home</a>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle text-dark" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Home
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <a class="dropdown-item" href="#promo">Book of the Month</a>
+                                <a class="dropdown-item" href="#arts">Arts & Culture</a>
+                                <a class="dropdown-item" href="#section3">Section 3</a>
+                                <a class="dropdown-item" href="#section4">Section 4</a>
+                                <a class="dropdown-item" href="#section5">Section 5</a>
+                            </div>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-page="/Privacy">About</a>
@@ -31,19 +40,37 @@
                             <a class="nav-link text-dark" asp-area="" asp-page="/Contact">Contact Us</a>
                         </li>
                     </ul>
-
-                    <!-- Search Bar -->
-                    <form class="d-flex">
-                        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-                        <button class="btn btn-outline-success" type="submit">Search</button>
-                    </form>
-
-                    <!-- Sign In and Sign Up Buttons -->
-                    <div class="d-flex">
-                        <button class="btn btn-outline-primary mx-2">Sign In</button>
-                        <button class="btn btn-outline-secondary">Sign Up</button>
-                    </div>
                 </div>
+            </div>
+
+            <!-- Sections (Home) -->
+
+
+            <div id="section2">
+                <!-- Section 2 content goes here -->
+            </div>
+            <div id="section3">
+                <!-- Section 3 content goes here -->
+            </div>
+            <div id="section4">
+                <!-- Section 4 content goes here -->
+            </div>
+            <div id="section5">
+                <!-- Section 5 content goes here -->
+            </div>
+
+            <!-- Search Bar -->
+            <form class="d-flex">
+                <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                <button class="btn btn-outline-success" type="submit">Search</button>
+            </form>
+
+            <!-- Sign In and Sign Up Buttons -->
+            <div class="d-flex">
+                <a href="https://example.com/signin" class="btn mx-2">Sign In</a>
+                <a href="https://example.com/signin" class="btn mx-2">Sign Up</a>
+            </div>
+            </div>
             </div>
         </nav>
     </header>

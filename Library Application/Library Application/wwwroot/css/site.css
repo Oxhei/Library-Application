@@ -18,5 +18,11 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+    color: #3c4048; /*Dark grey font colour*/
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.btn {
+    border-radius: 1em;
 }

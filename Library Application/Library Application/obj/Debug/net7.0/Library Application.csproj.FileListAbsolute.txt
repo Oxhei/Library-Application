@@ -1,0 +1,30 @@
+/Users/oxhei/Projects/Library-Application/Library Application/Library Application/bin/Debug/net7.0/appsettings.Development.json
+/Users/oxhei/Projects/Library-Application/Library Application/Library Application/bin/Debug/net7.0/appsettings.json
+/Users/oxhei/Projects/Library-Application/Library Application/Library Application/bin/Debug/net7.0/Library Application.staticwebassets.runtime.json
+/Users/oxhei/Projects/Library-Application/Library Application/Library Application/bin/Debug/net7.0/Library Application
+/Users/oxhei/Projects/Library-Application/Library Application/Library Application/bin/Debug/net7.0/Library Application.deps.json
+/Users/oxhei/Projects/Library-Application/Library Application/Library Application/bin/Debug/net7.0/Library Application.runtimeconfig.json
+/Users/oxhei/Projects/Library-Application/Library Application/Library Application/bin/Debug/net7.0/Library Application.dll
+/Users/oxhei/Projects/Library-Application/Library Application/Library Application/bin/Debug/net7.0/Library Application.pdb
+/Users/oxhei/Projects/Library-Application/Library Application/Library Application/obj/Debug/net7.0/Library Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oxhei/Projects/Library-Application/Library Application/Library Application/obj/Debug/net7.0/Library Application.AssemblyInfoInputs.cache
+/Users/oxhei/Projects/Library-Application/Library Application/Library Application/obj/Debug/net7.0/Library Application.AssemblyInfo.cs
+/Users/oxhei/Projects/Library-Application/Library Application/Library Application/obj/Debug/net7.0/Library Application.csproj.CoreCompileInputs.cache
+/Users/oxhei/Projects/Library-Application/Library Application/Library Application/obj/Debug/net7.0/Library Application.MvcApplicationPartsAssemblyInfo.cache
+/Users/oxhei/Projects/Library-Application/Library Application/Library Application/obj/Debug/net7.0/Library Application.RazorAssemblyInfo.cache
+/Users/oxhei/Projects/Library-Application/Library Application/Library Application/obj/Debug/net7.0/Library Application.RazorAssemblyInfo.cs
+/Users/oxhei/Projects/Library-Application/Library Application/Library Application/obj/Debug/net7.0/staticwebassets/msbuild.Library Application.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/oxhei/Projects/Library-Application/Library Application/Library Application/obj/Debug/net7.0/staticwebassets/msbuild.build.Library Application.props
+/Users/oxhei/Projects/Library-Application/Library Application/Library Application/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Library Application.props
+/Users/oxhei/Projects/Library-Application/Library Application/Library Application/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Library Application.props
+/Users/oxhei/Projects/Library-Application/Library Application/Library Application/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/oxhei/Projects/Library-Application/Library Application/Library Application/obj/Debug/net7.0/staticwebassets.build.json
+/Users/oxhei/Projects/Library-Application/Library Application/Library Application/obj/Debug/net7.0/staticwebassets.development.json
+/Users/oxhei/Projects/Library-Application/Library Application/Library Application/obj/Debug/net7.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/oxhei/Projects/Library-Application/Library Application/Library Application/obj/Debug/net7.0/scopedcss/bundle/Library Application.styles.css
+/Users/oxhei/Projects/Library-Application/Library Application/Library Application/obj/Debug/net7.0/scopedcss/projectbundle/Library Application.bundle.scp.css
+/Users/oxhei/Projects/Library-Application/Library Application/Library Application/obj/Debug/net7.0/Library Application.dll
+/Users/oxhei/Projects/Library-Application/Library Application/Library Application/obj/Debug/net7.0/refint/Library Application.dll
+/Users/oxhei/Projects/Library-Application/Library Application/Library Application/obj/Debug/net7.0/Library Application.pdb
+/Users/oxhei/Projects/Library-Application/Library Application/Library Application/obj/Debug/net7.0/Library Application.genruntimeconfig.cache
+/Users/oxhei/Projects/Library-Application/Library Application/Library Application/obj/Debug/net7.0/ref/Library Application.dll
