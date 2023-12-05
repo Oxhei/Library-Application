@@ -1,0 +1,39 @@
+﻿@page
+@model Admin
+@{
+    ViewData["Title"] = "Admin";
+}
+
+    <!-- DATABASE connection -->
+    <h2>List of Users</h2>
+    <a class='btn btn-primary btn-sm' href='/Data/Create'>New user</a>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>Email</th>
+                <th>Password</th>
+            </tr>
+        </thead>
+
+        <tbody>
+    @foreach (var data in Model.listUsers)
+    {
+        <tr>
+            <td>@data.id</td>
+            <td>@data.firstname</td>
+            <td>@data.lastname</td>
+            <td>@data.email</td>
+            <td>@data.password</td>
+
+            <!-- Buttons-->
+            <td>
+                <a class="btn btn-primary btn-sm" href="/Data/Edit?id=@data.id">Edit</a>
+                <a class="btn btn-danger btn-sm" href="/Data/Delete?id=@data.id">Delete</a>
+            </td>
+        </tr>
+    }
+        </tbody>
+        </table>
